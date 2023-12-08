@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hana Ibrahim
+- 👋 Hi, I’m Hana Abdalhag
 - 👀 I’m interested in computer sciences
 - 🌱 I’m currently learning Python and C as a software engneering studant
 - @ ALX-SE
